@@ -1,5 +1,5 @@
-# DATA698
-THIS IS MY LAST COURSE AT CUNY 
-UNDER SUPERVISON OF ANDREW HERNANDEZ
-2016 
-IN THIS CLASS I STUDY THE USA PRICES FOR HOUSES 
+# This is my capstone for my MS in Data Science  /2016
+The project aims to study house index prices in the largest cities of the USA
+I built a web-app which could be found below 
+
+https://dieudonne.shinyapps.io/dieudonnecapstoneshinyapp/
